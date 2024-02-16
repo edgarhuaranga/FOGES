@@ -1,3 +1,7 @@
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10620393.svg)](https://doi.org/10.5281/zenodo.10620393)
+
+
 # FOGES
 _From cloud and Fog Computing to Federated-Fog Computing_
 
